@@ -266,14 +266,14 @@ hr{
     
 }
 .button1 {
-    border-radius: 4px;
-    margin-top: 27px;
+    border-radius: 11px;
+    /* margin-top: 27px; */
     margin-left: 48px;
     color: rgb(0, 93, 41);
     border-color: rgb(0, 93, 41);
     background-color: rgb(255, 255, 255);
     font-size: 10px;
-    min-height: 30px;
+    min-height: 37px;
     min-width: 132px;
     transition-duration: 0.4s;
   cursor: pointer;
@@ -283,6 +283,186 @@ hr{
     background-color: rgb(0, 93, 41);
     color: white;
   } 
+  .share{
+    border-radius: 9px;
+    /* margin-top: 35px; */
+    margin-left: 12px;
+    color: #e5570c;
+    border-color: #e5570c;
+    background-color: rgb(255, 255, 255);
+    font-size: 4px;
+    min-height: 33px;
+    min-width: 25px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    /* padding-top: 6px; */
 
+  }
+  .share:hover {
+    background-color: #e5570c;
+    color: white;
+  } 
+  .allbutton{
+    /* background-color: #e5570c; */
+    display: flex;
+    align-items: center;
+  }
+  .blank-div1{
+    width: 100%;
+    height: 70px;
+    
 
- 
+  }
+.gray-div{
+    width: 100%;
+    height: 32px;
+    /* background-color: aqua; */
+    padding-top: 44px;
+
+}
+.h1graytitle{
+    font-size: 17px;
+    margin-left: 4px;
+    font-weight: 600;
+    margin-bottom: 0px;
+}
+.graybottles-div{
+    width: 100%;
+    height: 126px;
+    /* background-color: #e5570c; */
+    display: flex;
+    text-align: center;
+
+}
+
+.bottle11{
+    width: 7%;
+    height: 168;
+    /* background-color: blueviolet; */
+}
+.bottle12{
+    width: 7%;
+    height: 168;
+    /* background-color: blueviolet; */
+}
+.bottle13{
+    width: 7%;
+    height: 168;
+    /* background-color: blueviolet; */
+}
+.bottle14{
+    width: 7%;
+    height: 168;
+    /* background-color: blueviolet; */
+}
+.img11{
+    max-width: 100%;
+    height: 80px; 
+       
+    padding-left: 13px;
+}
+ .img12{
+    max-width: 100%;
+    height: 80px;
+    padding-left: 4px;
+}
+.img13{
+    max-width: 100%;
+    height: 80px;
+}
+.img14{
+    max-width: 100%;
+    height: 80px;
+}
+.h41{
+    margin-block-start: 5px;
+}
+.mid-div2{
+    width: 100%;
+    height: 1000px;
+    background-color: aqua;
+}
+.keydiv{
+    width: 100%;
+    height: 200px;
+    background-color:cadetblue;
+    display: flex;
+    justify-content: center;
+}
+.subkeydiv{
+    width: 70%;
+    height: 50px;
+    background-color:#db3c8e;
+    margin-top: 129px;
+}
+.keytitle{
+    font-size: 68px;
+    margin-block-start: -13px;
+    text-align: center;
+    color: #e5570c;
+
+}
+.molecules-div{
+    width: 100%;
+    height: 80px;
+    background-color: crimson;
+    display: flex;
+    justify-content: center;
+}
+.submole-div{
+    width: 70%;
+    height: 80px;
+    background-color: bisque;
+    display: flex;
+    justify-content: center;
+
+}
+.ml11{
+    width: 98px;
+     justify-content:center ;
+}
+.mldiv{
+    width: 60%;
+    height: 70px;
+    
+}
+.vv-div{
+    width: 100%;
+    height: 500px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+   
+
+}
+.imgedivv{
+    width: 70%;
+    height: 300px;
+   background-color: #db3c8e;
+   position: relative;
+}
+.cycleimg{
+    width: 100%;
+    height: 342px;
+    padding-top: 37px;
+    
+
+}
+
+.vcc{
+    color: black;
+    font-size: 29px;
+    position: absolute; 
+    top: 42px;
+    left: 31px;
+  
+
+}
+.pvcc{
+color: #363636;
+font-size: 16px;
+position: absolute; 
+top: 93px;
+left: 30px;
+}
+
